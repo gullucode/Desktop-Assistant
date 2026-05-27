@@ -1,0 +1,6 @@
+[project]
+name = "repl-nix-workspace"
+version = "0.1.0"
+description = "Lassi AI - Hindi-English Voice Assistant Web Interface"
+requires-python = ">=3.11"
+dependencies = ["flask", "waitress"]
